@@ -60,7 +60,7 @@ def all_supplies_in_holidays(holiday_hash)
     end
   end
 end
-end
+
 
 
 # return an array of holiday names (as symbols) where supply lists
